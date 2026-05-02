@@ -1,0 +1,8 @@
+version: 1
+type: dir
+uri: gs://git-zeroknowledgediscovery-zebra-afib/webapp
+manifest_uri: gs://git-zeroknowledgediscovery-zebra-afib/webapp.__manifest__.tsv
+manifest_sha256: c111a05bdceb2f220ca49a8943c9035f1207c8d851a75bd8d3a5dc00a2d38008
+file_count: 1524
+total_bytes: 19906238
+source_repo_relpath: webapp
